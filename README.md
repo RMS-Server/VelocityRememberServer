@@ -2,7 +2,7 @@
 
 一个 [Velocity](https://github.com/PaperMC/Velocity) 插件，用于记住玩家上次登录的服务器
 
-本项目基于 [https://github.com/TISUnion/VelocityRememberServer](https://github.com/TISUnion/VelocityRememberServer) 修改而来
+> 本项目基于 [TISUnion/VelocityRememberServer](https://github.com/TISUnion/VelocityRememberServer) 修改而来
 
 ## 功能特性
 
