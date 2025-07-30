@@ -1,1 +1,2 @@
 enabled: true
+disconnect_timeout_seconds: 30
